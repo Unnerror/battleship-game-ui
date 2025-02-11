@@ -1,12 +1,9 @@
-# Project Setup
-1. Clone repo
+# 🛳️ Battleship Game - UI Placement Page  
+This is my contribution to an **online Battleship game**, where I built the **placement page UI** using **HTML, CSS, and JavaScript**.  
 
-2. Download and configure your lombok to use with IDE
+## ✨ Features I Developed
+✅ **Drag-and-drop ship placement**  
+✅ **Grid-based board interaction**  
+✅ **Responsive design with CSS styling**  
 
-3. Create database "battleship" in your MSSQL server
-
-3. In SQL Server, create a username and password to use in your app.properties file in the project
-
-4. For the new user give appropriate permissions to connect with the database
-
-4. In the SQL Server configurator, enable TCP/IP connection on the port
+🔗 **Original project repository**: [SpringBoot-Battleship](https://github.com/vishnu-narayanan-kr/SpringBoot-Battleship)
